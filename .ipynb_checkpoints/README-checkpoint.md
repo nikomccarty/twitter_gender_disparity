@@ -50,6 +50,12 @@ There are some files which I consider to be mandatory for any project.
 2. **`README.md`**: A descriptive yet succinct description of your data project and information regarding the structure outlined below.
 
 
+### Data Sources
+The data was originally found in an article published in _JAMA Internal Medicine_ (2019) called "Gender Differences in Twitter Use and Influence Among Health Policy and Health Services Researchers" by Zhu, J.M. _et al._ I contacted the corresponding author for access to the full dataset, which was listed on [GitHub here](https://github.com/rwerner-upenn/Gender-Differences-in-Twitter-Use-and-Influence-Among-Health-Policy-and-Health-ServicesResearchers/blob/master/twitter2018_Werner_JAMAIM_publicuse.dta).
+
+The .dta file was converted to .csv with Pandas built-in functionality.
+
+
 # License Information
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
